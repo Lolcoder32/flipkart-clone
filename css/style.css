@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: #F1F3F6;
+    background-color: grey;
     overflow-x: hidden;
 }
 
 header{
-    background-color: #2874F0;
+    background-color: grey;
 }
 
 .navi{
@@ -22,7 +22,7 @@ header{
 .navi li{
     list-style: none;
     margin-left: 20px;
-    font-size: large;
+    font-size: larger;
     font-weight: 540;
     color: white;
     position: relative;
@@ -175,7 +175,7 @@ span{
     justify-content: space-between;
 }
 .dd h2{
-    margin-left: 5px;
+    margin-left: 52px;
     font-size: 1.8rem;
 }
 
@@ -186,7 +186,7 @@ span{
     margin-right: 2px;
     border: none;
     color: #fff;
-    border-radius: 2px;
+    border-radius: 22px;
     box-shadow: 0px 2px 4px 0 rgb(0 0 0 / 20%);
     cursor: pointer;
 }
